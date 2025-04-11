@@ -26,10 +26,6 @@ flutter pub get
 flutter run
 ```
 
-## Screenshots
-
-[Screenshots here]
-
 ## How It Works
 
 The application accesses native code through platform channels:
